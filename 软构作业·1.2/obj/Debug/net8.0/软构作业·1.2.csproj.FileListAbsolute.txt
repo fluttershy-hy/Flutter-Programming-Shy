@@ -1,0 +1,14 @@
+C:\Users\15107\source\repos\软构作业·1.2\bin\Debug\net8.0\软构作业·1.2.exe
+C:\Users\15107\source\repos\软构作业·1.2\bin\Debug\net8.0\软构作业·1.2.deps.json
+C:\Users\15107\source\repos\软构作业·1.2\bin\Debug\net8.0\软构作业·1.2.runtimeconfig.json
+C:\Users\15107\source\repos\软构作业·1.2\bin\Debug\net8.0\软构作业·1.2.dll
+C:\Users\15107\source\repos\软构作业·1.2\bin\Debug\net8.0\软构作业·1.2.pdb
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.AssemblyInfoInputs.cache
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.AssemblyInfo.cs
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.csproj.CoreCompileInputs.cache
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.dll
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\refint\软构作业·1.2.dll
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.pdb
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\软构作业·1.2.genruntimeconfig.cache
+C:\Users\15107\source\repos\软构作业·1.2\obj\Debug\net8.0\ref\软构作业·1.2.dll
