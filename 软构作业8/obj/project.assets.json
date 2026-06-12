@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "System.Data.SQLite/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Data.SQLite/2.0.3": {
+      "sha512": "5I9dVqmHp1v0dhco21btIRkUE47zHSy4t6bRLwIO6nGZ1mxGIL1f1yp1zWI/AAZFfdUz7n6RrH1hyi/6EhlIeQ==",
+      "type": "package",
+      "path": "system.data.sqlite/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net471/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.1/System.Data.SQLite.dll",
+        "system.data.sqlite.2.0.3.nupkg.sha512",
+        "system.data.sqlite.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "System.Data.SQLite >= 2.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\15107\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\15107\\source\\repos\\软构作业8\\软构作业8.csproj",
+      "projectName": "软构作业8",
+      "projectPath": "C:\\Users\\15107\\source\\repos\\软构作业8\\软构作业8.csproj",
+      "packagesPath": "C:\\Users\\15107\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\15107\\source\\repos\\软构作业8\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\15107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "System.Data.SQLite": {
+            "target": "Package",
+            "version": "[2.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

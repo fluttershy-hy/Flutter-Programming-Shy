@@ -1,0 +1,16 @@
+C:\Users\15107\source\repos\软构作业7\bin\Debug\net8.0-windows\软构作业7.exe
+C:\Users\15107\source\repos\软构作业7\bin\Debug\net8.0-windows\软构作业7.deps.json
+C:\Users\15107\source\repos\软构作业7\bin\Debug\net8.0-windows\软构作业7.runtimeconfig.json
+C:\Users\15107\source\repos\软构作业7\bin\Debug\net8.0-windows\软构作业7.dll
+C:\Users\15107\source\repos\软构作业7\bin\Debug\net8.0-windows\软构作业7.pdb
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.Form1.resources
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.csproj.GenerateResource.cache
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.AssemblyInfoInputs.cache
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.AssemblyInfo.cs
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.csproj.CoreCompileInputs.cache
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.dll
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\refint\软构作业7.dll
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.pdb
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\软构作业7.genruntimeconfig.cache
+C:\Users\15107\source\repos\软构作业7\obj\Debug\net8.0-windows\ref\软构作业7.dll

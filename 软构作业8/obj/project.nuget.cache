@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QH6CRSPXRdA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15107\\source\\repos\\软构作业8\\软构作业8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15107\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
